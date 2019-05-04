@@ -1,0 +1,19 @@
+body{
+    background-color: #866d4b;
+    font-family: 'Cormorant Unicase', serif;
+}
+h1{
+    text-align: center;
+    background-color: #866d4b;
+    font-family: 'Cormorant Unicase', serif;
+}
+nav{
+    background-color: #866d4b;
+    font-family: 'Cormorant Unicase', serif;
+}
+footer{
+    text-align: center;
+    height: 20%;
+    color: black;
+    font-family: 'Cormorant Unicase', serif;
+}

@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    background-color: #866d4b;
+    font-family: 'Cormorant Unicase', serif;
+}
+form{
+    color: #866d4b;
+    font-family: 'Cormorant Unicase', serif;
+
+}
+nav{
+    background-color: #866d4b;
+    color: black;
+    font-family: 'Cormorant Unicase', serif;
+}
+body{
+    background-color: #866d4b;
+    font-family: 'Cormorant Unicase', serif;
+}
+footer{
+    text-align: center;
+    height: 20%;
+    color: black;
+    background-color: #866d4b;
+    font-family: 'Cormorant Unicase', serif;
+}
+card{
+    background-color: #866d4b;
+    color: black;
+    float: right;
+}
